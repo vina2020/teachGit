@@ -3,3 +3,5 @@ create profile page
 login and logout page
 
 add video and audio call feature 
+
+stickers added feature
